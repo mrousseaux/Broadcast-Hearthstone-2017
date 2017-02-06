@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<teams>
+	<player1>Kadins</player1>
+	<player1A>Kadins</player1A>
+	<player1B />
+	<player2>XumeGG</player2>
+	<player2A>XumeGG</player2A>
+	<player2B />
+	<score1>1</score1>
+	<score1A>1</score1A>
+	<score1B />
+	<score2>0</score2>
+	<score2A>0</score2A>
+	<score2B />
+	<image1>mage_13</image1>
+	<image1A>mage_13</image1A>
+	<image1B />
+	<image2>icon_class_rogue</image2>
+	<image2A>icon_class_rogue</image2A>
+	<image2B />
+	<match />
+	<matchA />
+	<matchB />
+	<game />
+	<gameA />
+	<gameB />
+	<visible>true</visible>
+	<time>636219825773427546</time>
+</teams>
